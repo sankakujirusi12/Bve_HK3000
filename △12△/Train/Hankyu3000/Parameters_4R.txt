@@ -40,10 +40,6 @@ ApplySpeed = 479.8258
 ReleaseSpeed = 299.3719
 [Brake]
 PistonArea = 0.6762784
-[AirSupplement]
-MaximumPressure = 440000
-InitialPressure = 40000
-RegenerationLimit = 25
 [Compressor]
 UpperPressure = 800000
 LowerPressure = 700000

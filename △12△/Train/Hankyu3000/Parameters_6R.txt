@@ -28,9 +28,6 @@ ReleaseSpeed = 239.4975
 [Bp]
 ApplySpeed = 123.7857
 RapidReleaseSpeed = 990.2853
-[LockoutValve]
-MaximumPressure = 440000
-RegenerationLimit = 15
 [Bc]
 ApplyStart = 30000
 ApplyStop = 10000

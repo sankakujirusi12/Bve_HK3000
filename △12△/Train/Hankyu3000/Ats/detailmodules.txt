@@ -1,5 +1,4 @@
 Unicorn\ATS_HK_B8.dll
 Ask\Wiper\Wiper.dll
 Ask\MeterLag\MeterLag.dll
-;FWCH\MotorMasterPlugin\MotorMaster.dll
-Danryu_x86.dll
+sankakujirusi12\Danryu_x86.dll
