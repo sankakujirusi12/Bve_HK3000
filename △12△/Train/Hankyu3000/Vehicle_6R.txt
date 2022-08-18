@@ -1,6 +1,9 @@
 BveTs Vehicle 1.00
+
+
+;€”õ’†
 PerformanceCurve = Notch\Notch.txt
-Parameters = Parameters_8R.txt
+Parameters = Parameters_6R.txt
 Panel = Panel_8.cfg
 Sound = Sound\Sound.cfg
 Ats = Ats\DetailManager.dll
